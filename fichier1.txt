@@ -1,2 +1,2 @@
 ma première ligne
-ma deuxième ligne depuis la branche master
+ma deuxième ligne depuis la branche bugs
